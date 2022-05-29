@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ruponsarkar
-- 👀 I’m interested in web development
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning JS framework
 - 💞️ I’m looking to collaborate on learning with a well friendly guide 
 - 📫 7002747649 or 9707132913
